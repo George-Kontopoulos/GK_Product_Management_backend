@@ -1,0 +1,12 @@
+﻿{
+  "ConnectionStrings": {
+    "AcmeContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=ACMEDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
+
+
+
+
+
+
+
